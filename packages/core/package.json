@@ -67,7 +67,7 @@
     "jotai-optics": "0.4.0",
     "jotai-x": "1.2.4",
     "lodash": "^4.17.21",
-    "nanoid": "^3.3.7",
+    "nanoid": "^5.0.9",
     "optics-ts": "2.4.1",
     "slate-hyperscript": "0.100.0",
     "slate-react": "0.111.0",
